@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110" started-at="2019-02-01T05:59:41Z" finished-at="2019-02-01T05:59:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110" started-at="2019-02-01T05:59:41Z" finished-at="2019-02-01T05:59:41Z">
+      <class name="TestNG.PriorityEecution">
+        <test-method status="PASS" signature="testPriorityEecution1()[pri:1, instance:TestNG.PriorityEecution@1f57539]" name="testPriorityEecution1" duration-ms="14" started-at="2019-02-01T05:59:41Z" finished-at="2019-02-01T05:59:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPriorityEecution1 -->
+        <test-method status="PASS" signature="testPriorityEecution2()[pri:2, instance:TestNG.PriorityEecution@1f57539]" name="testPriorityEecution2" duration-ms="4" started-at="2019-02-01T05:59:41Z" finished-at="2019-02-01T05:59:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPriorityEecution2 -->
+        <test-method status="PASS" signature="testPriorityEecution3()[pri:3, instance:TestNG.PriorityEecution@1f57539]" name="testPriorityEecution3" duration-ms="2" started-at="2019-02-01T05:59:41Z" finished-at="2019-02-01T05:59:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPriorityEecution3 -->
+      </class> <!-- TestNG.PriorityEecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
